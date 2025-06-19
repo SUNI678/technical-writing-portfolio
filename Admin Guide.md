@@ -1,10 +1,16 @@
 # How to Create a New DITA Task Topic  
 ## Supersteps
+## Plan your enterprise deployment of Microsoft 365 Apps
 ### Prerequisites 
 
 * A Microsoft account
-* A Mlicrosoft Advertising account
+* A Microsoft Advertising account
 * A developer token
+## Context
+Orients the user within the bigger picture. Don't just rephrase the title. Use "you can" sentiments and avoid imperative verbs or how-to instructions. Consider:
+What does the user have to know before configuring or using this feature?
+What does this feature enable the user to do?
+How will this feature impact the user's tenant?
+Don't mention drawbacks.
 
-To get a Microsoft Advertising account, go to https://ads.microsoft.com. If you're not signed in to your Microsoft account, you're redirected to sign in to your account or to sign up for one. After signing in, you'll have the option to Sign up for a new Microsoft Advertising account. Select the sign up option and click Continue.
-Next, if you don't already have a Microsoft Advertising developer token for the production environment, go to the Developer Portal. Click Request Token and provide the requested information. If you use the API to manage your own account, you'll receive your token immediately; however, if you're managing accounts for others, it may take up to five business days to get a token.
+Refer to this article for guidance on deploying Microsoft 365 Apps and managing updates. It helps you decide whether to deploy Microsoft 365 Apps from the cloud, use Configuration Manager, or install from a local source within your network.
