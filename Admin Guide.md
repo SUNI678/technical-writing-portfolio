@@ -17,5 +17,6 @@ You use Microsoft 365 Apps update channels to control how frequently your users 
    * On the **Classifications** tab, select the Updates check box.
    Note: You can select other items in the Products and Classifications tabs, but you must select **Microsoft 365 Apps/Office 2019/Office LTSC** and **Updates** to receive notifications.
 4. Click **OK**.
-
+## Result 
+Devices now automatically fall back to the Office CDN to download update content if the sources are missing from their local or neighbor distribution points.
 
